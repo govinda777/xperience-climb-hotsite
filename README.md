@@ -1,7 +1,5 @@
 # 🧗‍♂️ Xperience Climb - Hotsite Criativo e Imersivo
 
-🎉 O **Hotsite Oficial do Xperience Climb** foi implementado com sucesso!  
-Este projeto entrega uma experiência digital única, traduzindo toda a energia da escalada em uma interface visualmente ousada, fluída e moderna.
 
 ---
 
