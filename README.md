@@ -40,7 +40,7 @@ O hotsite ultra-criativo do **Xperience Climb** foi implementado com sucesso, in
 ## Estrutura do Evento
 
 O hotsite apresenta de forma visualmente impactante:
-- **Programação de 2 dias** na Floresta Nacional de Ipanema
+- **Programação de 2 dias** 1 dia na Floresta Nacional de Ipanema 2 dia Republica dos macacos
 - **Três pacotes** (Silver R$300, Gold R$500, Premium R$800)
 - **Parceiros oficiais** incluindo ICMBio, Boulder Sorocaba e República dos Macacos
 - **Formulário de inscrição** integrado com validação em tempo real
