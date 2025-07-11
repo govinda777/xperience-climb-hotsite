@@ -42,6 +42,20 @@
 
 ## 🗺️ Estrutura do Evento no Hotsite
 
+1 dia
+encontro 9h
+vias de escalada 10h
+Revisão das tecnicas de segurança 10h30
+Café da manha Rustico 11h
+Escalando a 1 via 12h
+Almoço (Restaurante Xperience) 15h
+
+
+
+2 dia Republica 
+Encontro 9h
+Café da manha 9h15
+Aulas de Tecnicas Avançadas 10h30
 ```mermaid
 graph TD
     A[🏠 Página Inicial] --> B[🎯 Hero Section com Chamada Visual]
